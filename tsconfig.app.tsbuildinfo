@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/addtask.tsx","./src/components/checkmarker.tsx","./src/components/listitem.tsx","./src/components/listitemcontainer.tsx","./src/components/navbar.tsx","./src/components/timer.tsx","./src/components/defaultvaluecontext.tsx","./src/components/globalcontext.tsx"],"version":"5.6.2"}
